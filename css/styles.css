@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Larke Sans Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+header, footer {
+    text-align: center;
+    background-color: #001f3f;
+    color: #fff;
+    padding: 20px 0;
+}
+h1, h2 {
+    color: #001f3f;
+}
+section {
+    padding: 20px;
+    text-align: center;
+}
+form {
+    margin-top: 20px;
+}
+form label, form input, form select, form button {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    max-width: 400px;
+}
+    
